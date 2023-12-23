@@ -1,1 +1,2 @@
-This is thext for test1
+This is text for test1:
+I got GPA 3.25 at my HSC
