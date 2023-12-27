@@ -1,3 +1,4 @@
 This is text for test1:
 I got GPA 3.25 at my HSC
-I got a CGPA of 4.00 in my BBA first semester. I Will try my best to keep this CGPA throughout my Bachelor program(BBA)
+I got a CGPA of 4.00 in my BBA first semester. 
+I Will keep this CGPA throughout my Bachelor program(BBA)
